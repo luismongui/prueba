@@ -1,0 +1,15 @@
+#Directorios Ignorados
+.idea
+target
+.iml
+.classpath
+.project
+.settings/org.agileware.natural.jbehave.JBehave.prefs
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+.sonar/.sonar_lock
+.sonar/report-task.txt
+sonar-project.properties
+BDDPrueba.iml
+log/log4j.log
